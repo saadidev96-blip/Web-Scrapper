@@ -53,7 +53,6 @@ To set up the project and configure environment variables, follow these steps:
 1. Clone the Repository
 Clone the project's repository from your preferred version control platform (e.g., Git) to your local machine.
 
-git clone https://github.com/nuhmanpk/WebScrapper.git
 2. Virtual Environment (Optional)
 It's a good practice to create a virtual environment for the project. You can use virtualenv or venv for this purpose.
 
